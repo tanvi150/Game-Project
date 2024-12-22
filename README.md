@@ -1,5 +1,6 @@
 # Game-Project
 Under the Introduction to Programming 1 module, we were tasked with creating a game project using JavaScript. I used the p5.js library to develop this game.
+
 **Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. 
 Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only.
 
@@ -18,6 +19,7 @@ Coloring: Using RGB values to fill shapes with color or to outline them.
 Built-in Variables: Tracking the mouse's horizontal and vertical positions with mouseX and mouseY respectively, and utilizing functions like mousePressed() and keyPressed().
 
 Using this foundational knowledge, I created my first background, which was further developed later on.
+
 ![Screenshot 2024-10-29 205147](https://github.com/user-attachments/assets/bfe51cc1-e23c-4cc4-a08b-2e89a726ae0c)
 
 Challenges: I did not face significant challenges at this stage, as the tasks were relatively straightforward. However, I did encounter a minor issue related to a syntax
