@@ -15,7 +15,9 @@ we had not yet learned about loops or arrays, so all the objects were manually i
 To build the game’s basic structure, we were taught the following techniques:
 
 Shapes: Drawing ellipses, rectangles, triangles, lines, dots, etc.
+
 Coloring: Using RGB values to fill shapes with color or to outline them.
+
 Built-in Variables: Tracking the mouse's horizontal and vertical positions with mouseX and mouseY respectively, and utilizing functions like mousePressed() and keyPressed().
 
 Using this foundational knowledge, I created my first background, which was further developed later on.
