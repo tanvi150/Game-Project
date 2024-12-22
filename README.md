@@ -8,7 +8,7 @@ Replicating or distributing the code without proper authorization is strictly pr
 My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into four parts, with the midterm submission 
 focusing primarily on the game setting and character interaction.
 
--- Game Project: Part 1 --
+**-- Game Project: Part 1 --**
 
 In Part 1, I was tasked with coding the basic drawing functions to set the game scenery, including clouds, mountains, trees, canyons, and collectibles. At this stage, 
 we had not yet learned about loops or arrays, so all the objects were manually instantiated.
