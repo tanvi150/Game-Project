@@ -25,9 +25,34 @@ Using this foundational knowledge, I created my first background, which was furt
 
 ![Screenshot 2024-10-29 205147](https://github.com/user-attachments/assets/bfe51cc1-e23c-4cc4-a08b-2e89a726ae0c)
 
-Challenges: I did not face significant challenges at this stage, as the tasks were relatively straightforward. However, I did encounter a minor issue related to a syntax
+**Challenges:** I did not face significant challenges at this stage, as the tasks were relatively straightforward. However, I did encounter a minor issue related to a syntax
 error caused by incorrect use of spaces within a string concatenation. Specifically, I had trouble displaying coordinates on the canvas as the mouse moved across the
 screen. After some trial and error, I was able to resolve this issue.
+
+**-- Game Project: Part 2 --**
+
+In Part 2 of the project, I was tasked with creating a game character and integrating the background established in Part 1. Rather than manually instantiating components, we were introduced to the concept of variables. Initially, I found the process of declaring, initializing, and utilizing variables a bit overwhelming, as it was a new approach for me. However, as I progressed, I quickly realized how much more efficient and manageable this method made the development process.
+
+The first draft of my character, which I created for testing purposes, served to validate the integration between components before moving on to more complex implementations.
+
+[First draft of the character + code snippets of integration]
+
+![image](https://github.com/user-attachments/assets/f293f81c-f4c7-4240-abe9-14008f222aee)
+
+![image](https://github.com/user-attachments/assets/02212564-4cbd-420e-8755-76f7511a6019)
+
+![Screenshot 2024-11-19 093950](https://github.com/user-attachments/assets/a885d780-dbf4-44e2-804e-d9fd3e86b02d)
+
+![Untitled design (1)](https://github.com/user-attachments/assets/3be3becc-5abf-4230-8800-5a3614dbb7d2)
+
+**Challenges:** As this was a basic component, I did not particularly face any significant challenges!
+
+
+
+
+
+
+
 
 
 
