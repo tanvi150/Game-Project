@@ -39,7 +39,7 @@ The first draft of my character, which I created for testing purposes, served to
 
 ![image](https://github.com/user-attachments/assets/f293f81c-f4c7-4240-abe9-14008f222aee)
 
-![image](https://github.com/user-attachments/assets/02212564-4cbd-420e-8755-76f7511a6019)
+![Screenshot 2024-11-19 093937](https://github.com/user-attachments/assets/a71363ff-cf08-4b4a-9fb7-cbd8c34e5fd6)
 
 ![Screenshot 2024-11-19 093950](https://github.com/user-attachments/assets/a885d780-dbf4-44e2-804e-d9fd3e86b02d)
 
