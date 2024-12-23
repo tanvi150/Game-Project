@@ -74,7 +74,7 @@ For the collectables, I learned how to attach images dynamically (with reference
 
 [Demonstration when character interaction with canyon was not working]
 
-![image](https://github.com/user-attachments/assets/8f24cb52-ea10-431f-a076-2a1742f257fd)
+![Screenshot 2024-12-22 104645](https://github.com/user-attachments/assets/6799c393-4a5b-4a83-b03f-8ccfd5a736bb)
 
 ![image](https://github.com/user-attachments/assets/2d7159df-ec35-4c8a-8ac6-d9b6ba95d89f)
 
