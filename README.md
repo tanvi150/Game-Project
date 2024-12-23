@@ -70,7 +70,7 @@ For the collectables, I learned how to attach images dynamically (with reference
 
 [Demonstration when gravity was not working]
 
-![Untitled design (2)](https://github.com/user-attachments/assets/c8aba168-e710-4d44-af2f-9c8b1a804825)
+![Untitled design (3)](https://github.com/user-attachments/assets/6fa9c80d-63ad-49fd-8d81-648228a39b00)
 
 [Demonstration when character interaction with canyon was not working]
 
