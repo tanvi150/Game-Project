@@ -49,16 +49,42 @@ The first draft of my character, which I created for testing purposes, served to
 
 **-- Game Project: Part 3 --**
 
-In Part 3, I had to code the interaction of the game character. The game character had to move left, right, jump, collect the collectables and fall down the canyon. At this
-stage, we were taught about arrays and loops. So, I had shortened my code by implementing these functionalities. Moreoever, I programmed my setting so that a few
-objects appear randomised. For instance, the moving clouds in the background vary in height each time the page is refreshed. Similarly, the "random()" command was also 
-applicable for the peaks of the mountains and the collectables.
+In Part 3 of the project, I focused on coding the game character's interactions, which included moving left, right, jumping, collecting items, and falling into the canyon. At this stage, I learned about arrays and loops, which allowed me to significantly streamline my code. I also implemented randomization in the environment—objects like the moving clouds now vary in height each time the page is refreshed, and the peaks of the mountains and the collectables also use the random() function to add variety to the scene.
 
-To code the interaction, I was taught the following functionalities:
-1. Conditional Logic
-2. Conditionals with Types - Strings, Numbers & Booleans
+To manage these interactions effectively, I applied key programming concepts, including:
 
-By now, as you can see, I had some significant changes in terms of my character development and scenery.
+Conditional Logic
+Conditionals with Types—Strings, Numbers, and Booleans
+
+As a result, I made significant progress in both character development and environmental design, enhancing the overall gameplay experience.
+
+![image](https://github.com/user-attachments/assets/5c8c1409-80c4-4c88-887a-e33c5a2c5c83)
+
+For the collectables, I learned how to attach images dynamically (with references in the code) and animated the clouds to create a more immersive effect. Additionally, I refined the sky’s gradient color palette to give the scene an evening vibe, further enhancing the visual atmosphere.
+
+[Code Demonstration]
+
+![Untitled design (1)](https://github.com/user-attachments/assets/71c7e01b-d1be-4f5c-b045-4c160dcf9e68)
+
+**Challenges:** One of the major challenges in this part of the project was implementing gravity and ensuring the character interacted correctly with various objects, especially when falling into the canyon. It was a frustrating process, as fixing one issue often caused another. Coordinating the gravity mechanism with the character's fall down the canyon took considerable effort and time. In fact, it took me about two weeks to identify the root cause and resolve the issue!
+
+[Demonstration when gravity was not working]
+
+![Untitled design (2)](https://github.com/user-attachments/assets/c8aba168-e710-4d44-af2f-9c8b1a804825)
+
+[Demonstration when character interaction with canyon was not working]
+
+![image](https://github.com/user-attachments/assets/8f24cb52-ea10-431f-a076-2a1742f257fd)
+
+![image](https://github.com/user-attachments/assets/2d7159df-ec35-4c8a-8ac6-d9b6ba95d89f)
+
+![image](https://github.com/user-attachments/assets/3f1b41a9-329b-4f66-9e4f-d49bfb3fc206)
+
+For the canyon interaction, I took extra care by adding console logs to track down the issue and make sure I didn’t overlook any details. As seen in the first image, the loop worked fine, but the character's interaction with the canyon was not functioning correctly. After persistent troubleshooting, I was finally able to pinpoint the error and resolve the problem.
+
+
+
+
 
 
 
