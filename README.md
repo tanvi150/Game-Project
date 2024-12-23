@@ -37,7 +37,7 @@ The first draft of my character, which I created for testing purposes, served to
 
 [First draft of the character + code snippets of integration]
 
-![image](https://github.com/user-attachments/assets/f293f81c-f4c7-4240-abe9-14008f222aee)
+![Screenshot 2024-11-19 085628](https://github.com/user-attachments/assets/50e90744-7883-434d-880c-78c739ba4b99)
 
 ![Screenshot 2024-11-19 093937](https://github.com/user-attachments/assets/a71363ff-cf08-4b4a-9fb7-cbd8c34e5fd6)
 
@@ -46,6 +46,21 @@ The first draft of my character, which I created for testing purposes, served to
 ![Untitled design (1)](https://github.com/user-attachments/assets/3be3becc-5abf-4230-8800-5a3614dbb7d2)
 
 **Challenges:** As this was a basic component, I did not particularly face any significant challenges!
+
+**-- Game Project: Part 3 --**
+
+In Part 3, I had to code the interaction of the game character. The game character had to move left, right, jump, collect the collectables and fall down the canyon. At this
+stage, we were taught about arrays and loops. So, I had shortened my code by implementing these functionalities. Moreoever, I programmed my setting so that a few
+objects appear randomised. For instance, the moving clouds in the background vary in height each time the page is refreshed. Similarly, the "random()" command was also 
+applicable for the peaks of the mountains and the collectables.
+
+To code the interaction, I was taught the following functionalities:
+1. Conditional Logic
+2. Conditionals with Types - Strings, Numbers & Booleans
+
+By now, as you can see, I had some significant changes in terms of my character development and scenery.
+
+
 
 
 
