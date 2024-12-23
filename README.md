@@ -1,8 +1,7 @@
 # Game-Project
 Under the Introduction to Programming 1 module, we were tasked with creating a game project using JavaScript. I used the p5.js library to develop this game.
 
-**Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. 
-Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only.
+**Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only. The development was carried out using Visual Studio Code on the Windows operating system.
 
 ## Overview:
 My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into four parts, with the midterm submission 
@@ -66,7 +65,7 @@ For the collectables, I learned how to attach images dynamically (with reference
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/71c7e01b-d1be-4f5c-b045-4c160dcf9e68)
 
-**Challenges:** One of the major challenges in this part of the project was implementing gravity and ensuring the character interacted correctly with various objects, especially when falling into the canyon. It was a frustrating process, as fixing one issue often caused another. Coordinating the gravity mechanism with the character's fall down the canyon took considerable effort and time. In fact, it took me about two weeks to identify the root cause and resolve the issue!
+**Challenges:** One of the major challenges in this part of the project was implementing gravity and ensuring the character interacted correctly with various objects, especially when falling into the canyon. It was a frustrating process, as fixing one issue often caused another. Coordinating the gravity mechanism with the character’s fall required significant trial and error. After troubleshooting and testing multiple approaches over a couple of weeks, I was able to identify the root cause and resolve the issue.
 
 [Demonstration when gravity was not working]
 
@@ -80,7 +79,7 @@ For the collectables, I learned how to attach images dynamically (with reference
 
 ![image](https://github.com/user-attachments/assets/3f1b41a9-329b-4f66-9e4f-d49bfb3fc206)
 
-For the canyon interaction, I took extra care by adding console logs to track down the issue and make sure I didn’t overlook any details. As seen in the first image, the loop worked fine, but the character's interaction with the canyon was not functioning correctly. After persistent troubleshooting, I was finally able to pinpoint the error and resolve the problem.
+For debugging, I used console.log to track down the issue, which helped me pinpoint the error. As shown in the first image, the loop was working, but the character’s interaction with the canyon was not functioning correctly. After extensive troubleshooting, I finally resolved the issue.
 
 
 
