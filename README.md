@@ -4,7 +4,7 @@ Under the Introduction to Programming 1 module, we were tasked with creating a g
 **Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only. The development was carried out using Visual Studio Code on the Windows operating system.
 
 ## Overview:
-My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into four parts, with the midterm submission 
+My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into six parts, with the midterm submission 
 focusing primarily on the game setting and character interaction.
 
 **-- Game Project: Part 1 --**
@@ -80,6 +80,36 @@ For the collectables, I learned how to attach images dynamically (with reference
 ![image](https://github.com/user-attachments/assets/3f1b41a9-329b-4f66-9e4f-d49bfb3fc206)
 
 For debugging, I used console.log to track down the issue, which helped me pinpoint the error. As shown in the first image, the loop was working, but the character’s interaction with the canyon was not functioning correctly. After extensive troubleshooting, I finally resolved the issue.
+
+**-- Game Project: Part 4 & Part 5--**
+
+In Part 4 of the project, I focussed on the interaction between the character and objects in arrays. In this part, I introduced multiple canyons and applied character
+interaction. That is, it falls when it comes across any canyon. This is very similar to the previous part and does not require much elaboration. However, the most difficult
+section of this project was again the interaction between the character and the canyon. The major problem was that the character could detect the canyon yet did not fall into it.
+
+[Demonstration of Code Detection]
+
+![Untitled design (1)](https://github.com/user-attachments/assets/8d5435ab-c8fd-45a9-838e-76fcccaacb71)
+
+Later on, I figured out that I had to differentiate the isFalling (when character is pulled to the ground due to gravity), isPlummeting (when the character violently falls into the canyon) and isJumping (when the character jumps) commands clearly. Moreover, I realised that I had to also write a code where the character is able to identify all the canyons to fall into. Lastly, I also added in a conditional statement which prevents the character from double-jumping.
+
+[Final Code Snippet for Canyon Interaction]
+
+![image](https://github.com/user-attachments/assets/40058179-5dfe-4a1b-9687-2eecdf8f7a73)
+
+[Code Snippet for Preventing Double-Jumps]
+
+![image](https://github.com/user-attachments/assets/41adef33-d1d3-4e36-a3ef-d8902df9fe9e)
+
+Part 5 is more about code enhancement such as refactoring it. So, everything is pretty much the same in terms of execution.
+
+[Final Execution]
+
+![Untitled design (2)](https://github.com/user-attachments/assets/715b31a7-ef53-42a9-9e0b-64b90a1228b5)
+
+This ends the game project for midterm submission. Below are the rest of the parts related to the finals coursework and towards the end of the game level.
+
+
 
 
 
