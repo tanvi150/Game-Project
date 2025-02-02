@@ -1,5 +1,6 @@
 # Game-Project
 Under the Introduction to Programming 1 module, we were tasked with creating a game project using JavaScript. I used the p5.js library to develop this game.
+The game is deployed: https://gameproject-treasuretrails.netlify.app/
 
 **Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only. The development was carried out using Visual Studio Code on the Windows operating system.
 
