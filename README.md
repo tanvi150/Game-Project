@@ -7,6 +7,45 @@ Under the Introduction to Programming 1 module, we were tasked with creating a g
 My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into six parts, with the midterm submission 
 focusing primarily on the game setting and character interaction.
 
+## Instructions:
+**1. Coin Collection:** There are 25 coins scattered across the game, all of which must be collected to proceed to Level 2. If any coins remain uncollected, the message "Game Incomplete" will appear. To restart, simply refresh the page.
+
+**2. Obstacles in Level 1:** In this level, the primary obstacles are enemies and canyons. Avoid falling into the canyons or coming into contact with enemies.
+
+**3. Lives and Respawning:** If you fall into a canyon or touch an enemy, you will lose a life and respawn at the starting position of the current level, where you will continue with one less life.
+
+**4. Game Over:** If all lives are lost, the "Game Over" message will appear. Press 'Enter' to restart the game and try again.
+
+**5. Level 2 Coin Collection:** In Level 2, you must collect a total of 50 coins, which includes the 25 coins from Level 1. Once all coins are collected, the message "Game Finished" will be displayed, accompanied by fireworks for a celebratory finish.
+
+**6. New Challenges in Level 2:** Platforms are introduced in Level 2, and additional coins are placed on these platforms, increasing the difficulty and adding an extra challenge for players.
+
+**[Final Game Screenshots]**
+
+-- Level 1 of the Game --
+
+![Screenshot 2025-02-04 212347](https://github.com/user-attachments/assets/16584c44-676a-4343-a6de-39bb8efe04d4)
+
+-- Completion of Level 1 & Progression to Level 2 --
+
+![Screenshot 2025-02-04 212550](https://github.com/user-attachments/assets/13decc4b-6169-4070-b956-01671781e233)
+
+-- Incomplete Level 1: Did not collect ALL 25 coins --
+
+![Screenshot 2025-02-04 212959](https://github.com/user-attachments/assets/9ac9409d-8e68-4acd-a861-5d8d4e567267)
+
+-- Lost ALL the lives --
+
+![Screenshot 2025-02-04 212804](https://github.com/user-attachments/assets/f1e4a453-8ada-4069-95bd-85fc4bc98e15)
+
+-- Completion of Level 2 --
+
+![Screenshot 2025-02-04 213610](https://github.com/user-attachments/assets/609eaaaa-a029-41b8-9947-13382cdd58dd)
+
+
+Below is an overview of the game's development and progression.
+
+
 **-- Game Project: Part 1 --**
 
 In Part 1, I was tasked with coding the basic drawing functions to set the game scenery, including clouds, mountains, trees, canyons, and collectibles. At this stage, 
@@ -109,6 +148,22 @@ Part 5 is more about code enhancement such as refactoring it. So, everything is 
 
 This ends the game project for midterm submission. Below are the rest of the parts related to the finals coursework and towards the end of the game level.
 
+**-- Game Project: Part 6 --**
+
+In this section, I focused on integrating fundamental game mechanics into the project. I successfully implemented components such as a game score, a lives system, and a checkpoint, which serves as the level's endpoint, represented by a flagpole. While these features were not strictly required for this phase, I opted to enhance the gameplay experience by adding another level. This additional feature was straightforward to implement and allowed for a more engaging and dynamic progression through the game. At the conclusion of Level 2, the game transitions to a "Game Finished" state, accompanied by celebratory fireworks created using particle and emitter functions, providing a satisfying conclusion to the level progression.
+
+Challenges: In Part 6, one of the primary challenges I encountered was the implementation of fireworks. The difficulty stemmed from the fact that the constructor functions for fireworks were slightly different from standard functions, making it initially tricky to understand how to integrate them correctly. However, once I familiarized myself with the structure, I was able to quickly grasp the logic and successfully implement the fireworks effect. Another significant challenge was generating the 25 coins for each level, ensuring that the total score would correctly sum to 50 in Level 2. The challenge arose from maintaining a balanced distribution of coins across both levels while keeping the gameplay smooth. After careful debugging and decoding the logic, I was able to resolve the issue and ensure the coin collection mechanic functioned as intended.
+
+**--Game Project: Part 7 --**
+
+Part 7 was relatively straightforward, as it involved adding sound effects to the game to enhance the overall player experience. I sourced and integrated various audio elements, referencing sounds from Mixkit and other platforms. This addition significantly contributed to the atmosphere and interactivity of the game, making the gameplay more engaging and immersive.
+
+**--Game Project: Part 8 --**
+
+Part 8 presented a more complex challenge, as it involved adding enemies using Factory Functions and platforms using Constructor Functions. These concepts were quite different from the regular functions I had been using throughout Parts 1 to 5, which made the implementation process slightly difficult to grasp at first. Despite the initial learning curve, I was able to understand the distinctions and successfully apply both Factory and Constructor Functions. With persistence, I was able to effectively integrate these new elements into the game, enhancing both the gameplay mechanics and overall experience.
+
+
+To conclude, this game project is the result of 5-6 months of hard work. As a beginner, I know there's still plenty of room to improve, but I'm very proud of the progress I've made along the way. Thanks for checking this out!
 
 
 
