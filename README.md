@@ -1,8 +1,6 @@
 # Game-Project
 Under the Introduction to Programming 1 module, we were tasked with creating a game project using JavaScript. I used the p5.js library to develop this game.
 
-**Disclaimer:** This coursework is an individual project and is not a group assignment. The code provided here is copyrighted and is the original work of the author. Replicating or distributing the code without proper authorization is strictly prohibited. This project is for **educational and academic purposes** only. The development was carried out using Visual Studio Code on the Windows operating system.
-
 ## Overview:
 My game project, Treasure Trail, is a simple 2D game coded using the p5.js library. The development of this game is divided into six parts, with the midterm submission 
 focusing primarily on the game setting and character interaction.
